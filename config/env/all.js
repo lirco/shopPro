@@ -6,7 +6,7 @@ module.exports = {
 		description: 'A smart CMS for small-medium businesses',
 		keywords: 'shop, CMS, awesome'
 	},
-	port: process.env.PORT || 3000,
+	port: process.env.PORT || 5000,
 	templateEngine: 'swig',
 	sessionSecret: 'MEAN',
 	sessionCollection: 'sessions',
